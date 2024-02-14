@@ -7,4 +7,4 @@ Languages: C/C++ and Python. Currently learning CSS, HTML, and Javascript.
 
 ### Find me at other places:
 
-Professional Account: [Linkedin](www.linkedin.com/in/aaronjiang1)
+Professional Account: [LinkedIn Profile](https://www.linkedin.com/in/aaronjiang1)
